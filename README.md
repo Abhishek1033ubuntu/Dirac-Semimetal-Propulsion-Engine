@@ -1,5 +1,13 @@
 # Dirac-Semimetal-Propulsion-Engine (v1.0.0)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active Research](https://img.shields.io/badge/status-v1.0.0%20active%20research-success.svg)]()
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Abhishek1033ubuntu)
+[![AI Collaborator: Google Gemini](https://img.shields.io/badge/AI%20Collaborator-Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)](https://gemini.google.com)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Abhishek1033ubuntu%2FDirac--Semimetal--Propulsion--Engine-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abhishek1033ubuntu/Dirac-Semimetal-Propulsion-Engine)  
+
+
 *First-Principles Computational Framework for High-Thrust Directional Spacecraft Propulsion & Electrodynamic Surface-Skimming via Topological Dirac Semimetals ($\text{Na}_3\text{Bi}$) and Tuned Artificial Magnetic Conductor (PMC) Boundaries.*
 
 ---
@@ -149,3 +157,11 @@ Distributed under the MIT License. See `LICENSE` for details.
 }
 
 ```
+## Financial Support & Sponsorship
+
+While open-source research is distributed freely under the MIT License, direct financial support assists in maintaining numerical simulation suites, compute resources, and project archiving:
+
+* **Direct Support via PayPal:** [https://paypal.me/Abhishek1033ubuntu](https://paypal.me/Abhishek1033ubuntu)
+* **GitHub Sponsor Link:** Add your `.github/FUNDING.yml` file to enable the GitHub Sponsor button on the main repository page.
+
+---
