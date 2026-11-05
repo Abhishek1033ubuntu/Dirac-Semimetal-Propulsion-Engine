@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Dirac-Semimetal Propulsion Engine: High-Thrust Vectoring and PMC Reflector Architecture"
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+  - family-names: "Gemini AI"
+    given-names: "Google"
+version: "1.0.0"
+date-released: "2026-11-05"
+repository-code: "https://github.com/Abhishek1033ubuntu/Dirac-Semimetal-Propulsion-Engine"
+url: "https://github.com/Abhishek1033ubuntu/Dirac-Semimetal-Propulsion-Engine"
+license: "MIT"
+keywords:
+  - "space-propulsion"
+  - "dirac-semimetals"
+  - "propellantless-thrust"
+  - "pmc-reflector"
+  - "brachistochrone-trajectories"
+  - "electrodynamic-glider"
+  - "thz-deflection-shield"
+abstract: "First-principles theoretical framework and numerical simulation suite for high-thrust propellantless spacecraft propulsion and surface-skimming electrodynamic gliding using Na3Bi 3D Dirac semimetals, tuned artificial magnetic conductors, and smart THz minimal-angle debris deflection."
