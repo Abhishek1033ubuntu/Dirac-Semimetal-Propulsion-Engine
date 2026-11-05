@@ -161,7 +161,6 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 While open-source research is distributed freely under the MIT License, direct financial support assists in maintaining numerical simulation suites, compute resources, and project archiving:
 
-* **Direct Support via PayPal:** [https://paypal.me/Abhishek1033ubuntu](https://paypal.me/Abhishek1033ubuntu)
-* **GitHub Sponsor Link:** Add your `.github/FUNDING.yml` file to enable the GitHub Sponsor button on the main repository page.
-
+* **Direct Support via PayPal:** [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) |
+* **GitHub Sponsor Link:** [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa.svg?logo=github)](https://github.com/sponsors/Abhishek1033ubuntu) |
 ---
