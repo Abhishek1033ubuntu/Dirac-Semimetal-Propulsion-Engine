@@ -8,7 +8,7 @@
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Abhishek1033ubuntu%2FDirac--Semimetal--Propulsion--Engine-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abhishek1033ubuntu/Dirac-Semimetal-Propulsion-Engine)  
 
 
-*First-Principles Computational Framework for High-Thrust Directional Spacecraft Propulsion & Electrodynamic Surface-Skimming via Topological Dirac Semimetals ($\text{Na}_3\text{Bi}$) and Tuned Artificial Magnetic Conductor (PMC) Boundaries.*
+> *First-Principles Computational Framework for High-Thrust Directional Spacecraft Propulsion & Electrodynamic Surface-Skimming via Topological Dirac Semimetals (Na<sub>3</sub>Bi) and Tuned Artificial Magnetic Conductor (PMC) Boundaries.*
 
 ---
 
