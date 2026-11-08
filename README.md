@@ -7,7 +7,8 @@
 [![AI Collaborator: Google Gemini](https://img.shields.io/badge/AI%20Collaborator-Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)](https://gemini.google.com)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Abhishek1033ubuntu%2FDirac--Semimetal--Propulsion--Engine-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abhishek1033ubuntu/Dirac-Semimetal-Propulsion-Engine)  
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23986326-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23986326)  
-
+<!-- Standard Markdown Audio Badge -->
+[![Play UFO Ambient Audio](https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_Play_Audio-UFO_Ambient_Drive_Sound-8E75B2?style=for-the-badge&logo=speaker)](https://youtu.be/dW9xbFLaatU?si=0FA2rBC-nocNN31t). 
 
 > *First-Principles Computational Framework for High-Thrust Directional Spacecraft Propulsion & Electrodynamic Surface-Skimming via Topological Dirac Semimetals (Na<sub>3</sub>Bi) and Tuned Artificial Magnetic Conductor (PMC) Boundaries.*
 
